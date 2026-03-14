@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DSA & Web Development enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vivekcode12345&icon=5&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vivekcode12345&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekcode12345&theme=algolia&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=vivekcode12345&theme=algolia&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Snake
