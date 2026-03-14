@@ -37,13 +37,13 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/itx.vivek_verma" target="_blank">
+  <a href="https://instagram.com/itx.vivek_verma" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/vivekcode12345" target="_blank">
+  <a href="https://linkedin.com/in/vivekcode12345" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vivek7148verma@gmail.com">
+  <a href="mailto:vivek7148verma@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
