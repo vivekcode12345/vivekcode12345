@@ -20,10 +20,12 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently building: **A simple place booking project**
-- 🌱 I’m currently learning: **Middleware** and **React**
+- 🔭 I’m currently building: **AI Notes Generator (Full-Stack Project)**
+- 🎓 I’m a **CSE undergrad at SRM University AP ('28)**
+- 🌱 I’m currently exploring: **Data Science in depth**
+- 🤝 Currently independent: **Open to internships and collaboration opportunities**
 - 📫 Reach me at: **vivek7148verma@gmail.com**
-- ⚡ Fun fact: **I love tech, and tech loves me!**
+- ⚡ Fun fact: **I love tech, and tech loves me!** 
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -83,11 +85,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekcode12345&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekcode12345&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vivekcode12345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vivekcode12345&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekcode12345&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekcode12345&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## ✍️ Random Dev Quote
@@ -97,7 +99,7 @@
 
 ## 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vivekcode12345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekcode12345&theme=tokyonight" alt="Top Contributed Repos" />
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! Let’s build something amazing together 🚀</i></p>
