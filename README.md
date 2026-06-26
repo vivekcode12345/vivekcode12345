@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently building: **AI Notes Generator (Full-Stack Project)**
+- 🔭 I’m currently building: **IPL 2022 Analysis Project** (Full-Stack Project)**
 - 🎓 I’m a **CSE undergrad at SRM University AP ('28)**
 - 🌱 I’m currently exploring: **Data Science in depth**
 - 🤝 Currently independent: **Open to internships and collaboration opportunities**
