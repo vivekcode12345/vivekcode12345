@@ -28,12 +28,14 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently building: **IPL 2022 Analysis Project** (Full-Stack Project)**
-- 🎓 I’m a **CSE undergrad at SRM University AP ('28)**
-- 🌱 I’m currently exploring: **Data Science in depth**
-- 🤝 Currently independent: **Open to internships and collaboration opportunities**
-- 📫 Reach me at: **vivek7148verma@gmail.com**
-- ⚡ Fun fact: **I love tech, and tech loves me!** 
+
+- 🎓 Computer Science undergraduate at **SRM University-AP ('28)** with a **9+ CGPA**
+- 💻 Full-Stack Developer passionate about building scalable web applications
+- 🤖 Exploring **AI Automation, Machine Learning, LLMs, and n8n Workflows**
+- 🧠 Strong interest in **Data Structures & Algorithms** and Backend Engineering
+- 🚀 Currently building impactful projects that solve real-world problems
+- 🤝 Open to **Software Engineering, AI/ML, and Full-Stack Internship** opportunities
+- 📫 **Email:** vivek7148verma@gmail.com
 
 ## 🏆 GitHub Trophies
 <p align="center">
