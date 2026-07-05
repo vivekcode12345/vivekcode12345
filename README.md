@@ -1,5 +1,13 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-OPEN%20TO%20INTERNSHIPS-brightgreen" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-2563EB" />
+  <img src="https://img.shields.io/badge/AI-Automation-7C3AED" />
+  <img src="https://img.shields.io/badge/Machine-Learning-DC2626" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71" />
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-00599C" />
+</p>
 <h1 align="center">Hi 👋, I'm Vivek Verma</h1>
-<h3 align="center">A passionate DSA & Web Development enthusiast from India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer | AI Automation • Machine Learning • n8n • DSA</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivekcode12345&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
