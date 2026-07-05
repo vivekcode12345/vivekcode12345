@@ -123,14 +123,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekcode12345&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekcode12345&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 📋 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekcode12345&theme=tokyonight" />
+</p>
+
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-## 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekcode12345&theme=tokyonight" alt="Top Contributed Repos" />
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! Let’s build something amazing together 🚀</i></p>
