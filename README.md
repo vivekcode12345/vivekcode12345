@@ -131,6 +131,26 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekcode12345&theme=tokyonight" />
 </p>
 
+---
+
+## 🤝 Let's Build Something
+
+<p align="center">
+  <b>Internship ke liye hire karna hai ya koi cool idea hai? Let's talk.</b><br/><br/>
+  <a href="mailto:vivek7148verma@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Hire_Me-2563EB?style=for-the-badge" alt="Hire Me" />
+  </a>
+  <a href="https://linkedin.com/in/vivekcode12345">
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center"><i>Thanks for visiting my profile! Let’s build something amazing together 🚀</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
+
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
